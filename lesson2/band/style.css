@@ -1,0 +1,17 @@
+body {
+	background-image: url('guitar-bg.jpg');        
+	position: relative;             
+	margin-left: auto;      
+	margin-right: auto; 
+}
+
+h1 {
+	color: white;
+	font-size: 100px;
+	font-family: Playball;
+	text-align: center;
+}
+
+.centered {
+	text-align: center;
+}
